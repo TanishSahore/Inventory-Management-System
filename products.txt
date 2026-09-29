@@ -1,0 +1,36 @@
+101
+PC
+PC
+14999
+1
+55
+101
+Gaming Laptop
+Laptop
+115000
+20
+Dealer
+102
+Laptop
+Laptop
+45000
+50
+Dealer
+103
+PC
+Camputer
+25000
+20
+Dealer
+104
+Keyboard
+Soft Touch Keyboard
+1299
+30
+Dealer
+105
+Mouse
+RGB Light Mouse
+1599
+20
+Dealer
